@@ -12,7 +12,7 @@
                     <a href="{{ route ('area.index')}}">
                         <img src="{{URL::asset('icons/areas.png')}}" alt="imagen" class="img-rounded img-thumbnail" />
                         <h2 style="color: maroon;">Áreas</h2>
-                        <p style="text-align: left;">
+                        <p style="color: #00BFFF; text-align: left;">
                             <span class="fa fa-info-circle"></span>
                             Usted podra registrar toda la informacion necesaria de un estudiante, dicha informacion sera
                             utilizada en otros procesos.
@@ -28,7 +28,7 @@
                     <a href="{{ route ('lett.index')}}">
                         <img src="{{URL::asset('icons/letter.png')}}" alt="imagen" class="img-rounded img-thumbnail" />
                         <h2 style="color: maroon;">Modelo de Cartas</h2>
-                        <p style="text-align: left;">
+                        <p style="color: #00BFFF; text-align: left;">
                             <span class="fa fa-info-circle"></span>
                             Usted podra registrar toda la informacion necesaria de un estudiante, dicha informacion sera
                             utilizada en otros procesos.
@@ -45,7 +45,7 @@
                         <img src="{{URL::asset('icons/procedure.png')}}" alt="imagen"
                             class="img-rounded img-thumbnail" />
                         <h2 style="color: maroon;">Procedimientos</h2>
-                        <p style="text-align: left;">
+                        <p style="color: #00BFFF; text-align: left;">
                             <span class="fa fa-info-circle"></span>
                             Aqui se respalda toda la informacion referente a estudiantes egresados como ser Acta,
                             Trabajo
@@ -96,7 +96,7 @@
                     <a href="{{ route ('func.index')}}">
                         <img src="{{URL::asset('icons/organi.png')}}" alt="imagen" class="img-rounded img-thumbnail" />
                         <h2 style="color: maroon;">Funciones</h2>
-                        <p style="text-align: left;">
+                        <p style="color: #00BFFF; text-align: left;">
                             <span class="fa fa-info-circle"></span>
                             Aqui se respalda toda la informacion referente a estudiantes egresados como ser Acta,
                             Trabajo
@@ -111,7 +111,7 @@
                     <a href="{{ route ('portal.index')}}">
                         <img src="{{URL::asset('icons/back.png')}}" alt="imagen" class="img-rounded img-thumbnail" />
                         <h2 style="color: maroon;">Volver Atrás</h2>
-                        <p style="text-align: left;">
+                        <p style="color: #00BFFF; text-align: left;">
                             <span class="fa fa-info-circle"></span>
                             Presiona en el botón para regresar a la página anterior o puedes utilizar el menu ubicado en
                             la parte de arriba.

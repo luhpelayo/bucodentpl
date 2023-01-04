@@ -10,10 +10,10 @@
             <div class="col-md-4">
                 <div>
                     <a href="{{ route ('diente.create')}}">
-                        <img src="{{URL::asset('icons/addstudent.png')}}" alt="imagen"
+                        <img src="{{URL::asset('icons/addiente.png')}}" alt="imagen"
                             class="img-rounded img-thumbnail" />
                         <h2 style="color: maroon;">Registrar Diente</h2>
-                        <p style="text-align: left;">
+                        <p style="color: #00BFFF; text-align: left;">
                             <span class="fa fa-info-circle"></span>
                             Usted podra registrar toda la informacion necesaria de un diente, dicha informacion sera
                             utilizada en otros procesos.
@@ -27,10 +27,10 @@
             <div class="col-md-4">
                 <div>
                     <a href="{{ route ('diente.show')}}">
-                        <img src="{{URL::asset('icons/viewstudent.png')}}" alt="imagen"
+                        <img src="{{URL::asset('icons/listdiente.png')}}" alt="imagen"
                             class="img-rounded img-thumbnail" />
                         <h2 style="color: maroon;">Mostrar dientes</h2>
-                        <p style="text-align: left;">
+                        <p style="color: #00BFFF; text-align: left;">
                             <span class="fa fa-info-circle"></span>
                             Se visualiza toda la informacion de los dientes registrados ademas es posible editar,
                             eliminar o exportar toda la informacion.
@@ -45,7 +45,7 @@
                     <a href="{{ route ('portal.index')}}">
                         <img src="{{URL::asset('icons/back.png')}}" alt="imagen" class="img-rounded img-thumbnail" />
                         <h2 style="color: maroon;">Volver Atrás</h2>
-                        <p style="text-align: left;">
+                        <p style="color: #00BFFF; text-align: left;">
                             <span class="fa fa-info-circle"></span>
                             Presiona en el botón para regresar a la página anterior o puedes utilizar el menu ubicado en
                             la parte de arriba.

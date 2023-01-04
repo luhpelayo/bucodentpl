@@ -13,7 +13,7 @@
                         <img src="{{URL::asset('icons/addpaciente.png')}}" alt="imagen"
                             class="img-rounded img-thumbnail" />
                         <h2 style="color: maroon;">Registrar Paciente</h2>
-                        <p style="text-align: left;">
+                        <p style="color: #00BFFF; text-align: left;">
                             <span class="fa fa-info-circle"></span>
                             Usted podra registrar toda la informacion necesaria de un paciente, dicha informacion sera
                             utilizada en otros procesos.
@@ -30,7 +30,7 @@
                         <img src="{{URL::asset('icons/viewpaciente.png')}}" alt="imagen"
                             class="img-rounded img-thumbnail" />
                         <h2 style="color: maroon;">Mostrar Pacientes</h2>
-                        <p style="text-align: left;">
+                        <p style="color: #00BFFF; text-align: left;">
                             <span class="fa fa-info-circle"></span>
                             Se visualiza toda la informacion de los pacientes registrados ademas es posible editar,
                             eliminar o exportar toda la informacion.
@@ -45,7 +45,7 @@
                     <a href="{{ route ('portal.index')}}">
                         <img src="{{URL::asset('icons/back.png')}}" alt="imagen" class="img-rounded img-thumbnail" />
                         <h2 style="color: maroon;">Volver Atrás</h2>
-                        <p style="text-align: left;">
+                        <p style="color: #00BFFF; text-align: left;">
                             <span class="fa fa-info-circle"></span>
                             Presiona en el botón para regresar a la página anterior o puedes utilizar el menu ubicado en
                             la parte de arriba.

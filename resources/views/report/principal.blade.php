@@ -11,7 +11,7 @@
                     <a href="{{ route ('dyna.index')}}" >
                         <img src="{{URL::asset('icons/reportdinamic.png')}}" alt="imagen" class="img-rounded img-thumbnail"/>
                         <h2 style="color: maroon;">Reportes Dinamicos</h2>
-                        <p style="text-align: left;">
+                        <p style="color: #00BFFF; text-align: left;">
                             <span class="fa fa-info-circle"></span>
                             Usted podra consultar informacion de cualquier modulo del sistema y en base a sus criterios la informacion sera especifica.
                         </p>
@@ -24,7 +24,7 @@
                     <a href="{{ route ('construccion.index')}}" >
                         <img src="{{URL::asset('icons/reportgrafic.png')}}" alt="imagen" class="img-rounded img-thumbnail"/>
                         <h2 style="color: maroon;">Reportes Graficos</h2>
-                        <p style="text-align: left;">
+                        <p style="color: #00BFFF; text-align: left;">
                             <span class="fa fa-info-circle"></span>
                                 Se visualiza toda la informacion de los modulos pero con graficos estadisticos acordes a su necesidad.
                         </p>
@@ -37,7 +37,7 @@
                     <a href="{{ route ('portal.index')}}" >
                         <img src="{{URL::asset('icons/back.png')}}" alt="imagen" class="img-rounded img-thumbnail"/>
                         <h2 style="color: maroon;">Volver Atrás</h2>
-                        <p style="text-align: left;">
+                        <p style="color: #00BFFF; text-align: left;">
                             <span class="fa fa-info-circle"></span>
                             Presiona en el botón para regresar a la página anterior o puedes utilizar el menu ubicado en la parte de arriba.
                         </p>

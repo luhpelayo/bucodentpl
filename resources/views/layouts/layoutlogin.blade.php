@@ -5,7 +5,7 @@
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-  <title>Industrial</title>
+  <title>BUCODENT</title>
   <meta content="Sistema web de Ing Industrial" name="description">
   <meta content="Uagrm, Ing industrial, FCET" name="keywords">
   <meta content="Nells A. Vidal V." name="author">

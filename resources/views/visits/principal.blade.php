@@ -13,7 +13,7 @@
                         <img src="{{URL::asset('icons/addvisit.png')}}" alt="imagen"
                             class="img-rounded img-thumbnail" />
                         <h2 style="color: maroon;">Registrar Visita</h2>
-                        <p style="text-align: left;">
+                        <p style="color: #00BFFF; text-align: left;">
                             <span class="fa fa-info-circle"></span>
                             Usted puede registrar toda la información de las visitas tecnicas realizadas y adjuntar
                             documentación.
@@ -30,7 +30,7 @@
                         <img src="{{URL::asset('icons/viewvisit.png')}}" alt="imagen"
                             class="img-rounded img-thumbnail" />
                         <h2 style="color: maroon;">Mostrar Visitas Técnicas</h2>
-                        <p style="text-align: left;">
+                        <p style="color: #00BFFF; text-align: left;">
                             <span class="fa fa-info-circle"></span>
                             Se puede visualizar toda la información registrada y ademas descargar toda la documentación
                             adjuntada.
@@ -45,7 +45,7 @@
                     <a href="{{ route ('portal.index')}}">
                         <img src="{{URL::asset('icons/back.png')}}" alt="imagen" class="img-rounded img-thumbnail" />
                         <h2 style="color: maroon;">Volver Atrás</h2>
-                        <p style="text-align: left;">
+                        <p style="color: #00BFFF; text-align: left;">
                             <span class="fa fa-info-circle"></span>
                             Presiona en el botón para regresar a la página anterior o puedes utilizar el menu ubicado en
                             la parte de arriba.
